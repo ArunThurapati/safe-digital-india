@@ -65,7 +65,7 @@ export default function ContactPage() {
     {
       icon: MapPin,
       title: 'Address',
-      value: 'Digital Guardian Initiative, New Delhi, India',
+      value: 'Digital Guardian Initiative, Hyderabad, India',
       link: null,
     },
   ];
