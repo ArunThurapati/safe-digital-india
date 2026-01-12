@@ -52,14 +52,14 @@ export default function Footer() {
                 <span className="font-paragraph text-sm text-foreground/70">support@digitalguardian.gov.in</span>
               </li>
               <li className="flex items-start gap-2">
+                <MapPin className="w-4 h-4 text-primary mt-0.5 flex-shrink-0" />
+                <span className="font-paragraph text-sm text-foreground/70">{"Hyderabad, India"}</span>
+              </li>
+            <li className="flex items-start gap-2">
                 <Phone className="w-4 h-4 text-primary mt-0.5 flex-shrink-0" />
                 <span className="font-paragraph text-sm text-foreground/70">1800-XXX-XXXX (Toll Free)</span>
               </li>
-              <li className="flex items-start gap-2">
-                <MapPin className="w-4 h-4 text-primary mt-0.5 flex-shrink-0" />
-                <span className="font-paragraph text-sm text-foreground/70">New Delhi, India</span>
-              </li>
-            </ul>
+              </ul>
           </div>
 
           <div>
